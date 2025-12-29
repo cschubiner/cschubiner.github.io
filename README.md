@@ -14,4 +14,5 @@ Root GitHub Pages site for [@cschubiner](https://github.com/cschubiner).
 - [Semantic Trail](https://cschubiner.github.io/semantic_trail_game/) - AI-powered word guessing game
 
 ### Tools
-- [Local Multiplayer Game Reviews](https://cschubiner.github.io/gamelist_manyplayers_v2/) - Reviews for 5+ player local multiplayer games
+- [Local Multiplayer Game Reviews (v2)](https://cschubiner.github.io/gamelist_manyplayers_v2/) - Reviews for 5+ player games (built with Claude Sonnet 4)
+- [Local Multiplayer Game Reviews (v1)](https://cschubiner.github.io/gamelist-reviews/) - Reviews for 8+ player games (built with Claude Haiku)
