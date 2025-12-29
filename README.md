@@ -1,19 +1,17 @@
-# Clay's Games
+# cschubiner.github.io
 
-A collection of web-based games you can play right now in your browser.
+Root GitHub Pages site for [@cschubiner](https://github.com/cschubiner).
 
-## Games
+**[Visit the site](https://cschubiner.github.io/)**
 
-| Game | Description | Play | Source |
-|------|-------------|------|--------|
-| **Spyfall & Avalon** | Spyfall and Avalon Online *(newer version with both games)* | [Play](https://cschubiner.github.io/games) | [GitHub](https://github.com/cschubiner/games) |
-| **Avalon Online (Legacy)** | The Resistance: Avalon *(original 2016 version, Avalon only)* | [Play](http://cschubiner.github.io/avalon-online/) | [GitHub](https://github.com/cschubiner/avalon-online) |
-| **Codenames AI** | Jackbox-style multiplayer Codenames with AI spymasters | [Play](https://cschubiner.github.io/codenames-ai/) | [GitHub](https://github.com/cschubiner/codenames-ai) |
-| **Kronologic** | A deduction mystery game where players solve crimes by tracking character movements through time | [Play](https://cschubiner.github.io/kronologic/) | [GitHub](https://github.com/cschubiner/kronologic) |
-| **Semantic Trail** | An embedding-based word guessing game powered by AI | [Play](https://cschubiner.github.io/semantic_trail_game/) | [GitHub](https://github.com/cschubiner/semantic_trail_game) |
+## Projects
 
-### Note on Avalon versions
+### Games
+- [Spyfall & Avalon](https://cschubiner.github.io/games) - Play Spyfall and Avalon online
+- [Avalon Online (Legacy)](https://cschubiner.github.io/avalon-online/) - Original 2016 Avalon version
+- [Codenames AI](https://cschubiner.github.io/codenames-ai/) - Multiplayer Codenames with AI spymasters
+- [Kronologic](https://cschubiner.github.io/kronologic/) - Time-based deduction mystery game
+- [Semantic Trail](https://cschubiner.github.io/semantic_trail_game/) - AI-powered word guessing game
 
-There are two versions of Avalon Online:
-- **[games](https://github.com/cschubiner/games)** (2017) - The newer version with both Spyfall and Avalon, plus Facebook login
-- **[avalon-online](https://github.com/cschubiner/avalon-online)** (2016) - The original version with Avalon only
+### Tools
+- [Local Multiplayer Game Reviews](https://cschubiner.github.io/gamelist_manyplayers_v2/) - Reviews for 5+ player local multiplayer games
